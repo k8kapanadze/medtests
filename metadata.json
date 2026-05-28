@@ -1,0 +1,6 @@
+{
+  "name": "სამედიცინო ტესტირების პლატფორმა",
+  "description": "პროფესიონალური სასწავლო და ტესტირების სისტემა მედიცინის სტუდენტებისა და რეზიდენტებისთვის",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
